@@ -36,8 +36,7 @@ export default async function (req, res) {
       frequency_penalty: 0.1,
       presence_penalty: 0.1
     });
-    let result = completion.data.choices[0].text
-    console.log(completion.data.choices[0].text.search("."));
+    let result = completion.data.choices[0].text;
 
     const response = await openai.createImage({
       prompt: generatePanitPrompt(animal),
