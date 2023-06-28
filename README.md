@@ -28,12 +28,12 @@ and it creates a photo suitable for country.
 
 4. Run the app
 
-## Result
-![result](https://github.com/whiteout367/AIGuide/assets/75378861/1032ca2c-6dc6-451e-9bfc-6c2c298e9f69)
-
 
    ```bash
    $ npm run dev
    ```
 
 You should now be able to access the app at [http://localhost:3000](http://localhost:3000)!
+
+## Result
+![result](https://github.com/whiteout367/AIGuide/assets/75378861/1032ca2c-6dc6-451e-9bfc-6c2c298e9f69)
